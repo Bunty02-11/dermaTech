@@ -89,16 +89,16 @@ const About = () => {
                 />
                 <Content
                   doctor1="/support-1.svg"
-                  mediumLengthSectionHeading="24/7 Services"
-                  loremipsum="24/7 Services Our clinic offers round-the-clock services, catering to your beauty and wellness needs anytime."
+                  mediumLengthSectionHeading="Services"
+                  loremipsum="Services Our clinic offers round-the-clock services, catering to your beauty and wellness needs anytime."
                 />
               </div>
             </div>
           </div>
           <div className={styles.slider1}>
-            <Component1 perfumes="75+" perfumes1="Expert Doctors" />
+            <Component1 perfumes="15" perfumes1="Expert Doctors" />
             <Component1 perfumes="7k" perfumes1="Happy Patients" />
-            <Component1 perfumes="850" perfumes1="Modern Amenities" />
+            <Component1 perfumes="55+" perfumes1="Modern Amenities" />
             <Component1 perfumes="15" perfumes1="Awards Won" />
           </div>
         </div>
